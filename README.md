@@ -28,6 +28,7 @@ python main.py nomDufichier --intensity
 Le fichier *config.toml* permet de configurer la simulation et le rendu, les paramètres sont :
 * FPS : Le nombre d'image par seconde de l'animation
 * DURATION : Le temps en seconde de la simulation
+* SIZE : Choisi l'échelle 
 * N : Le taille de la grille en nombre de point (ce qui correspont à N^2 points)
 * DELTA_T : Le temps de simulation écoulé par seconde d'animation
 * x , y : Les positions de départ du paquet d'onde
