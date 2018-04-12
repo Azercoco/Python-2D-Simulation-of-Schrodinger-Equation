@@ -1,0 +1,24 @@
+FPS= 25
+DURATION = 10 #durée en seconde
+N = 200 #dimension en nombre de points de la simulation
+SIZE = 15 #taille de la simulation
+DELTA_T= 0.125 #temps ecoulé par seconde de vidéo
+
+#caractéristiques du paquet d'onde gaussien 2D 
+#centre
+x = -5
+y = 0
+
+#nombre d'onde
+Kx = 7.5
+Ky = 0
+
+#étalement
+Ax = 0.5
+Ay = 0.5
+
+#Potentiel en fonction de x et y 
+V = "0" # Ex: x**2+y**2"
+
+#Obstacle : expression booléenne en fct de x et y (mettre à False si l'on ne veut pas d'obstacle)
+O = "(x > 0.5 and x < 1 and not ((y > 0.25 and y < 0.75) or (y < -0.25 and y > -0.75)))"
