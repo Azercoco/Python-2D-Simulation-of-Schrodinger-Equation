@@ -35,5 +35,5 @@ Le potentiel et la présence d'obstacle doivent être exprimés comme des expres
 
 ## Dépendances
 
-Le progamme nécessite les bibliothèques Python : *numpy*, *scipy*, et *matplotlib* ainsi que *toml*.µ
+Le progamme nécessite les bibliothèques Python : *numpy*, *scipy*, et *matplotlib* ainsi que *toml*.
 Il necssité aussi FFmpeg pour pouvoir enregister la vidéo.
