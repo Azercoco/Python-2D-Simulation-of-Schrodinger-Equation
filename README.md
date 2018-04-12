@@ -45,9 +45,12 @@ Le progamme nécessite les bibliothèques Python : *numpy*, *scipy*, et *matplot
 Il necéssite aussi FFmpeg pour pouvoir enregister la vidéo.
 
 ## Exemples 
-* Un paquet d'onde dans un potentiel quadratique
+
 ![Un paquet d'onde dans un potentiel quadratique](Examples/example1.gif)
-* Interférence à travers une double fente
+* Un paquet d'onde dans un potentiel quadratique *
+
 ![Interférence à traver une double fente](Examples/example2.gif)
-* La densité de probabilité à travers la double fente
+* Interférence à travers une double fente *
+
 ![Le même mais affichant la densité de probabilté](Examples/example3.gif)
+* La densité de probabilité à travers la double fente *
