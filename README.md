@@ -7,6 +7,9 @@ Une simulation de l'évolution d'un paquet d'onde gaussien
 Le programme simule le comportement d'un paquet d'onde gaussien suivant l'équation de Schrödinger. L'algorithme utilisé est la méthode [Alternating direction implicit method](https://en.wikipedia.org/wiki/Alternating_direction_implicit_method). 
 
 La simulation permet de configurer un potentiel constant avec le temps ainsi que la présence d'obstacles (qui sont gérés comme des barrières de potentiel très élévées).
+### Perfomance
+
+Pour une grille 200x200 à 25 *fps*, il faut compter une minute de calcul par seconde d'animation
 
 ## Utilisation 
 
