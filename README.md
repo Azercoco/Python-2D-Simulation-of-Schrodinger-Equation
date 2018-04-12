@@ -19,7 +19,7 @@ Pour créer une animation et la stocker dans le ficher *nomDuFichier.mp4*, il fa
 ```console
 python main.py nomDufichier
 ```
-Si l'on veut afficher la densité de probalité et non pas la fonction d'onde complexe, il faut ajouter le flage *--intensity*.
+Si l'on veut afficher la densité de probalité et non pas la fonction d'onde complexe, il faut ajouter le flag *--intensity*.
 ```console
 python main.py nomDufichier --intensity
 ```
